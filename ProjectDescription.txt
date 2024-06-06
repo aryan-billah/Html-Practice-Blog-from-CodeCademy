@@ -1,0 +1,1 @@
+This is a simple project made using CodeCademy Pro's project for the Full Stack Engineer certification. The goal is to review and familiarize myself with HTML structure and elements.
